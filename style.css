@@ -119,7 +119,7 @@ body {
 
 .main__container {
   background-color: rgba(245, 245, 245, 0.45);
-  width: clamp(17rem, 80%, 80rem);
+  width: clamp(17rem, 80%, 70rem);
   display: flex;
   justify-content: center;
   align-items: center;
