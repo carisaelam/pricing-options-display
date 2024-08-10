@@ -119,7 +119,7 @@ body {
 
 .main__container {
   background-color: rgba(245, 245, 245, 0.45);
-  width: clamp(17rem, 80%, 70rem);
+  width: clamp(17rem, 80%, 50rem);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -166,7 +166,7 @@ body {
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
   font-weight: bold;
-  font-size: clamp(0.7em, 0.7em + 1vw, 1.5rem);
+  font-size: clamp(0.3rem, 0.3rem + 1vw, 1rem);
 }
 
 #card_1 button {
@@ -233,7 +233,6 @@ body {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-
     gap: 0.5rem;
   }
 }
